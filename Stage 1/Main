@@ -1,3 +1,6 @@
+ * @author (Tare Azazi)
+ * @version (09/05/2024)
+
 public class Main {
   public static void main(String[] args) {
     String worldAndRidesFileName = args[0];
